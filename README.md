@@ -19,7 +19,7 @@ This website was made as a sample for a college club website.
 ShapelyVersion: 1.2.3
 By colorlib
 
-##Plugins:
+## Plugins:
 1. All-in-One WP Migration Version 6.77 By ServMask
 2. Contact Form 7 Version 5.0.4 By Takayuki Miyoshi
 3. Give - Donation Plugin Version 2.2.5 By WordImpress
