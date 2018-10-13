@@ -2,6 +2,8 @@
 
 This website was made as a sample for a college club website.
 
+## Wordpress:
+Version 4.9.8 through 000webhost 
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/44106378/46907611-1a043880-ceca-11e8-9aee-a69152d8e2e7.jpg)
