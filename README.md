@@ -3,7 +3,7 @@
 This website was made as a sample for a college club website.
 
 ## Visit Site
-[CodeTime](https://shristisinghdongol.000webhostapp.com/)
+[KEC IT Club](https://shristisinghdongol.000webhostapp.com/)
 
 ## Wordpress:
 Version 4.9.8 through 000webhost 
